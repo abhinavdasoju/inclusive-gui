@@ -48,14 +48,4 @@ A Chrome extension that redesigns the UI of web apps to be more accessible and u
 2. Open Chrome and navigate to `chrome://extensions`.
 3. Enable **Developer mode** (toggle in the top-right corner).
 4. Click **Load unpacked** and select the cloned project folder.
-5. Open Gmail — the overlay should appear automatically.
-
-## Roadmap
-
-- [ ] Gmail: overlay with top email details (in progress)
-- [ ] Gmail: large action buttons (Reply, Archive, Delete)
-- [ ] Gmail: keyboard shortcut support
-- [ ] Figma design pass for the overlay UI
-- [ ] Expand to Google Calendar
-- [ ] Expand to Google Docs
-- [ ] Expand to additional GSuite products
+5. Open Gmail, the overlay should appear automatically.
